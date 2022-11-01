@@ -1,4 +1,4 @@
-This repository include the raw data from "Pollination systems and nectar rewards in four Andean species of Salvia (Lamiaceae)" by A. Saravia-Nava, S. Benitez-Vieyra, O. N. Urquizo, H.M Niemeyer & C. F. Pinto, alongwith an R script to replicate all the analyses.
+This repository includes the raw data from "Pollination systems and nectar rewards in four Andean species of Salvia (Lamiaceae)" by A. Saravia-Nava, S. Benitez-Vieyra, O. N. Urquizo, H.M Niemeyer & C. F. Pinto, alongwith an R script to replicate all the analyses.
 
 File and variable names. 
 
